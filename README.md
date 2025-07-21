@@ -1,4 +1,4 @@
-## Hi there 👋
+# PRINCU ROCKS 1
 This is my first Git Repository.
 Author - Prince Kumar
 
